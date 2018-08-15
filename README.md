@@ -1,7 +1,5 @@
 # CSE461
-The repositroy contains the code for a simple dust responsive proximity aware water sprinkler.
-
-A demo video of the project can be found [here](https://youtu.be/iyoZcHU2n-o?t=1m20s).
+The repositroy contains the code for a simple dust responsive proximity aware water sprinkler. A demo of the project can be viewed [here](https://youtu.be/iyoZcHU2n-o?t=1m20s).
 
 Components used:
 1.	Arduino Uno R3
