@@ -11,6 +11,6 @@ Components used:
 7.	Lead acid battery
 8.	1 channel 5V relay
 
-While there are two sonars listed only has been used. Because either the other one was never properly connected to begin with or it somehow got disconnected while the project was being moved around. Debugging it would mean, opening up the entire project which has been glued using hot glue. 
+While there are two sonars listed, only one has been used. Because either the other one somehow got disconnected while the project was being moved around. Debugging it would mean, opening up the entire project which is held in place via glue. 
 
 The required LCD library can be found [here](https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/). Version 1.3.5 has been used for the project
