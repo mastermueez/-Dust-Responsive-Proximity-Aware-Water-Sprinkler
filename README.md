@@ -1,4 +1,4 @@
-# CSE461
+# Dust Responsive Proximity Aware Water Sprinkler
 The repositroy contains the code for a simple dust responsive proximity aware water sprinkler. A demo of the project can be viewed [here](https://youtu.be/iyoZcHU2n-o?t=1m20s).
 
 This project was made possible with help from:
